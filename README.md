@@ -6,3 +6,6 @@
 
 3. [Markdown 编辑器 Example](https://cn.vuejs.org/v2/examples/index.html)
     + [[译]如何在 Vue.js 中使用第三方库](https://github.com/dwqs/blog/issues/51)
+    
+    
+4. [GitHub 提交 Example](https://cn.vuejs.org/v2/examples/commits.html)
